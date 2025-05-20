@@ -1,0 +1,4 @@
+In Python you can automate boring tasks.
+In Python you can build web applications.
+In Python you can analyze data.
+In Python you can write clean and readable code.
